@@ -30,8 +30,7 @@ whoami:
   nome: "Sabrina Hadassa"
   cargo: "Estudante de Engenharia de Software"
   localizacao: "São Paulo, Brasil"
-  fun_fact: "Sempre explorando algo novo no universo tech"
-  status: "Compilando sonhos em código executável..."
+  status: "Aprendendo, criando e evoluindo..."
 ```
 
 <br clear="right"/>
@@ -44,18 +43,6 @@ whoami:
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ============ TERMINAL - OBJETIVOS ATUAIS ============ -->
-## `<section>` 🎯 OBJETIVOS_ATUAIS `</section>`
-
-```bash
-SEU_NOME@github:~$ cat objetivos_2026.txt
-
-SEU_NOME@github:~$ echo $STATUS
->> "Sempre aprendendo, sempre construindo." 🚀
-
-SEU_NOME@github:~$ _
-```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
