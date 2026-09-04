@@ -1,8 +1,9 @@
-[README (2).md](https://github.com/user-attachments/files/31846570/README.2.md)
+[README (5).md](https://github.com/user-attachments/files/31846668/README.5.md)
+
 <div align="center">
 
 <!-- ============ BANNER PRINCIPAL ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile%20of%20Sabrina%20Hadassa...&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Sabrina%20Hadassa&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
@@ -28,14 +29,7 @@
 whoami:
   nome: "Sabrina Hadassa"
   cargo: "Estudante de Engenharia de Software"
-  localizacao: "Sua Cidade, Brasil"
-  interesses:
-    - "Desenvolvimento Web"
-    - "Inteligência Artificial"
-    - "UI/UX e Acessibilidade"
-    - "Programação"
-    - "Open Source"
-    - "Novas Tecnologias"
+  localizacao: "São Paulo, Brasil"
   fun_fact: "Sempre explorando algo novo no universo tech"
   status: "Compilando sonhos em código executável..."
 ```
@@ -77,7 +71,7 @@ SEU_NOME@github:~$ _
 <div align="center">
 
 ### 💻 Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,php&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,html&theme=dark" /><br><br>
 
 ### 🌐 Front-end
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,svelte&theme=dark" /><br><br>
