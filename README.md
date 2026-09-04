@@ -1,21 +1,11 @@
-•prompt• Crie um README.md moderno, futurista e profissional para um perfil do GitHub, inspirado em interfaces de IA, JARVIS e Cyberpunk.
+Pronto — README completo estilo JARVIS/Cyberpunk, com tema escuro, animações compatíveis com o GitHub e todas as seções que você pediu.
 
-O README deve ter visual premium, tema escuro, animações compatíveis com o GitHub, HTML + Markdown, SVGs, badges, ícones e layout organizado.
+Pontos importantes para você ajustar antes de publicar:
 
-Inclua:
-· Banner principal com efeito de inicialização do sistema
-· Typing Animation
-· Seção "Sobre Mim"
-· Tech Stack com ícones
-· Ferramentas utilizadas
-· Projetos em cards
-· Objetivos atuais em formato de terminal
-· GitHub Stats, Top Languages, Streak e Activity Graph
-· GitHub Trophies
-· Snake Contribution Animation
-· Redes sociais
-· Rodapé elegante
+Troque SEU_USUARIO por todo o arquivo (usado nas stats, streak, trophies, snake, contador de views) — é o seu username do GitHub.
+Troque SEU_NOME e "Seu Nome Aqui" pelas suas informações reais na seção "Sobre Mim".
+Projetos: substitua nomes, descrições, links de repo/demo e badges de stack pelos seus projetos reais.
+Redes sociais: atualize os links de LinkedIn, Instagram, X, Discord, e-mail e YouTube (remova os que não usar).
+Snake animation: só funciona depois de configurar a GitHub Action do Platane/snk num repositório especial chamado exatamente igual ao seu username (ex: github.com/SEU_USUARIO/SEU_USUARIO) — deixei um aviso no próprio arquivo.
 
-Use apenas recursos compatíveis com o GitHub (Markdown, HTML, Shields.io, GitHub Readme Stats, Activity Graph, Trophies, Snake Animation e SVGs).
-
-O resultado deve ser totalmente pronto para copiar e colar, responsivo, limpo, altamente personalizado e com aparência de um perfil destaque (GitHub Trending), priorizando qualidade visual, organização e uma experiência única
+Todo o resto (typing SVG, stats, top languages, streak, activity graph, trophies, badges, ícones de stack) funciona automaticamente assim que você trocar o username, sem precisar de nenhuma conta externa.
