@@ -61,7 +61,7 @@ whoami:
 <img src="https://skillicons.dev/icons?i=python,=dark" /><br><br>
 
 ### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,=dark" /><br>
+<img src="https://skillicons.dev/icons?i=github,vscode,figma" /><br>
 
 </div>
 
