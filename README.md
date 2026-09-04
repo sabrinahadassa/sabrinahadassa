@@ -6,7 +6,7 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Sabrina+Hadassa+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+IA+%7C+UI%2FUX;Explorando+novas+tecnologias+e+Open+Source;Bem-vindo+ao+meu+mainframe..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Sabrina+Hadassa+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;%7C+UI%2FUX;Explorando+novas+tecnologias;Bem-vindo+ao+meu+mainframe..." alt="Typing SVG" />
 </a>
 
 <br/>
