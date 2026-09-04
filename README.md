@@ -36,10 +36,6 @@ whoami:
 <br clear="right"/>
 
 <div align="center">
-
-[![Currículo](file:///C:/Users/saa_1/Downloads/Curr%C3%ADculo.pdf)
-)](#)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -87,7 +83,6 @@ whoami:
 ```
 > SYSTEM.log("Obrigado por visitar meu mainframe.")
 > connection.status = "Aberto para novas conexões e oportunidades"
-> [FIM_DA_TRANSMISSÃO]
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=8892B0&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds" alt="Typing SVG Footer" />
