@@ -37,8 +37,8 @@ whoami:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISITAR-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://seusite.com)
-[![Currículo](https://img.shields.io/badge/CURR%C3%8DCULO-DOWNLOAD-8A2BE2?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0d1117)](#)
+[![Currículo]([Currículo.pdf](https://github.com/user-attachments/files/31847145/Curriculo.pdf)
+)](#)
 
 </div>
 
@@ -73,7 +73,7 @@ whoami:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SabrinaHadassa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SabrinaHadassa](https://www.linkedin.com/in/sabrina-hadassa-gomes-de-andrade-918989410/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saa_hadassa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa.hadassa1@gmail.com)
 
