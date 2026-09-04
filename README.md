@@ -26,13 +26,10 @@
 
 ```yaml
 whoami:
-  nome: "Seu Nome Aqui"
-  cargo: "Full Stack Developer & AI Enthusiast"
-  localizacao: "Sua Cidade, Brasil"
-  formacao: "Ciência da Computação"
-  foco_atual: "Inteligência Artificial & Sistemas Distribuídos"
-  fun_fact: "Debugo em produção às 3 da manhã e finjo que foi proposital"
-  status: "Compilando sonhos em código executável..."
+  nome: "Sabrina Hadassa"
+  cargo: "Estudante de Engenharia de Software"
+  localizacao: "São Paulo, Brasil"
+  formacao: "Engenharia de Software"
 ```
 
 <br clear="right"/>
@@ -50,7 +47,7 @@ whoami:
 ## `<section>` 🎯 OBJETIVOS_ATUAIS `</section>`
 
 ```bash
-SEU_NOME@github:~$ cat objetivos_2026.txt
+Sabrina@github:~$ cat objetivos_2026.txt
 
 [✔] Aprofundar conhecimentos em Arquitetura de Sistemas Distribuídos
 [✔] Contribuir para projetos Open Source relevantes
