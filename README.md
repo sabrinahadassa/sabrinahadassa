@@ -51,12 +51,6 @@ whoami:
 ```bash
 SEU_NOME@github:~$ cat objetivos_2026.txt
 
-[✔] Aprofundar conhecimentos em Arquitetura de Sistemas Distribuídos
-[✔] Contribuir para projetos Open Source relevantes
-[ ] Dominar Machine Learning aplicado a produtos reais
-[ ] Publicar um projeto próprio de IA generativa
-[ ] Alcançar 1000+ estrelas somadas nos repositórios
-
 SEU_NOME@github:~$ echo $STATUS
 >> "Sempre aprendendo, sempre construindo." 🚀
 
@@ -74,19 +68,13 @@ SEU_NOME@github:~$ _
 <img src="https://skillicons.dev/icons?i=python,html&theme=dark" /><br><br>
 
 ### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,svelte&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,svelte&theme=dark" /><br><br>
 
 ### 🛠️ Back-end
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" /><br><br>
-
-### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" /><br><br>
-
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,theme=dark" /><br><br>
 
 ### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,vim&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,vim&theme=dark" /><br>
 
 </div>
 
