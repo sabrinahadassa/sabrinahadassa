@@ -81,8 +81,8 @@ whoami:
 <div align="center">
 
 ```
-> SYSTEM.log("Obrigado por visitar meu mainframe.")
-> connection.status = "Aberto para novas conexões e oportunidades"
+Obrigado por visitar meu mainframe.
+Aberto para novas conexões e oportunidades
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=8892B0&center=true&vCenter=true&width=500&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds" alt="Typing SVG Footer" />
