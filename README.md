@@ -1,12 +1,12 @@
-[README (1).md](https://github.com/user-attachments/files/31846418/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/31846570/README.2.md)
 <div align="center">
 
 <!-- ============ BANNER PRINCIPAL ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile%20of%20SEU_NOME...&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile%20of%20Sabrina%20Hadassa...&descAlignY=58&descSize=18&descColor=8892B0" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+SEU_NOME+%F0%9F%91%8B;Full+Stack+%7C+AI+Engineer+%7C+System+Architect;Construindo+o+futuro%2C+uma+linha+de+c%C3%B3digo+por+vez;Bem-vindo+ao+meu+mainframe..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Sabrina+Hadassa+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+IA+%7C+UI%2FUX;Explorando+novas+tecnologias+e+Open+Source;Bem-vindo+ao+meu+mainframe..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,8 +28,16 @@
 whoami:
   nome: "Sabrina Hadassa"
   cargo: "Estudante de Engenharia de Software"
-  localizacao: "São Paulo, Brasil"
-  formacao: "Engenharia de Software"
+  localizacao: "Sua Cidade, Brasil"
+  interesses:
+    - "Desenvolvimento Web"
+    - "Inteligência Artificial"
+    - "UI/UX e Acessibilidade"
+    - "Programação"
+    - "Open Source"
+    - "Novas Tecnologias"
+  fun_fact: "Sempre explorando algo novo no universo tech"
+  status: "Compilando sonhos em código executável..."
 ```
 
 <br clear="right"/>
@@ -47,7 +55,7 @@ whoami:
 ## `<section>` 🎯 OBJETIVOS_ATUAIS `</section>`
 
 ```bash
-Sabrina@github:~$ cat objetivos_2026.txt
+SEU_NOME@github:~$ cat objetivos_2026.txt
 
 [✔] Aprofundar conhecimentos em Arquitetura de Sistemas Distribuídos
 [✔] Contribuir para projetos Open Source relevantes
