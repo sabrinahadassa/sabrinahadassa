@@ -52,10 +52,10 @@ whoami:
 <div align="center">
 
 ### 💻 Linguagens
-<img src="https://skillicons.dev/icons?i=python,html&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=python, html, css,html&theme=dark" /><br><br>
 
 ### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=,html,=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=,html,css,=dark" /><br><br>
 
 ### 🛠️ Back-end
 <img src="https://skillicons.dev/icons?i=python,=dark" /><br><br>
