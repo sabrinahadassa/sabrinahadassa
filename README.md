@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ============ SOBRE MIM ============ -->
-## `<section>` 🧠 SOBRE_MIM `</section>`
+## 🧠 SOBRE_MIM
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png">
 
@@ -47,7 +47,7 @@ whoami:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ============ TECH STACK ============ -->
-## `<section>` ⚙️ TECH_STACK `</section>`
+## ⚙️ TECH_STACK 
 
 <div align="center">
 
@@ -69,7 +69,7 @@ whoami:
 
 
 <!-- ============ REDES SOCIAIS ============ -->
-## `<section>` 📡 CANAIS_DE_COMUNICAÇÃO `</section>`
+##  📡 CANAIS_DE_COMUNICAÇÃO 
 
 <div align="center">
 
