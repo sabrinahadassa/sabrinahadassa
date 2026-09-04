@@ -55,13 +55,13 @@ whoami:
 <img src="https://skillicons.dev/icons?i=python,html&theme=dark" /><br><br>
 
 ### 🌐 Front-end
-<img src="https://skillicons.dev/icons?i=react,html,css,svelte&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=,html,css,=dark" /><br><br>
 
 ### 🛠️ Back-end
-<img src="https://skillicons.dev/icons?i=python,theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,=dark" /><br><br>
 
 ### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,vim&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,=dark" /><br>
 
 </div>
 
@@ -73,7 +73,7 @@ whoami:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrinahadassa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SabrinaHadassa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saa_hadassa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saa.hadassa1@gmail.com)
 
