@@ -31,7 +31,11 @@ whoami:
   cargo: "Estudante de Engenharia de Software"
   localizacao: "São Paulo, Brasil"
   status: "Aprendendo, criando e evoluindo..."
-```
+
+Meu nome é Sabrina Hadassa e sou estudante de Engenharia de Software, com interesse pela tecnologia e pelo universo da programação. Estou em constante aprendizado, desenvolvendo meus conhecimentos em áreas como desenvolvimento web, lógica de programação, experiência do usuário (UX) e engenharia de software.
+
+Busco crescer profissionalmente na área de tecnologia, adquirindo novos conhecimentos e transformando ideias em soluções através da programação.
+Estou construindo minha trajetória profissional passo a passo, aprendendo algo novo a cada dia e desenvolvendo minhas habilidades para me tornar uma profissional na área de tecnologia.
 
 <br clear="right"/>
 
