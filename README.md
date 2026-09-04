@@ -37,7 +37,7 @@ whoami:
 
 <div align="center">
 
-[![Currículo]([Currículo.pdf](https://github.com/user-attachments/files/31847145/Curriculo.pdf)
+[![Currículo](file:///C:/Users/saa_1/Downloads/Curr%C3%ADculo.pdf)
 )](#)
 
 </div>
